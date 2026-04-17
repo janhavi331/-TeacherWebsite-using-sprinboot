@@ -4,6 +4,13 @@
 A full-stack Student Query Management System built with **Spring Boot (backend)** and **HTML/CSS/JavaScript (frontend)**.
 
 ---
+## 🚀 Project Overview
+This is a Faculty Query System with:
+- Frontend deployed on Netlify
+- Backend deployed on Render
+
+## 🔗 Live Demo
+https://renukakajale.netlify.app/main
 
 ## 📁 Project Structure
 
